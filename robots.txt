@@ -1,3 +1,4 @@
+# xuekui-geo · robots（放行版，更新 2026-10-31）
 User-agent: *
 Allow: /
 Disallow: /publish.html
@@ -11,4 +12,5 @@ User-agent: Bytespider
 Allow: /
 User-agent: Google-Extended
 Allow: /
+Sitemap: https://xuekui-geo.surge.sh/sitemap.xml
 Sitemap: https://gfldsift.github.io/xuekui-geo/sitemap.xml
