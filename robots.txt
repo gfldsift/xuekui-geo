@@ -1,4 +1,3 @@
-# xuekui-geo · robots（放行版，更新 2026-11-11）
 User-agent: *
 Allow: /
 Disallow: /publish.html
